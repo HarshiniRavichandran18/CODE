@@ -1,1 +1,5 @@
-
+print("What is your name?")
+print("Where are you from?")
+print("What Department are you in?")
+print("What are you Interested in?")
+print("Explain about your Hobbies")
